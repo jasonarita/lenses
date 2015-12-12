@@ -1,9 +1,22 @@
-# photography-lens
+# Lenses
 
-Nikon d5100/d7000
 
 # Lens review sites
-- 
+- dxomark
+- dpreview
+- lenstip.com
+- fstoppers
+- digitalcamerareview
+- phobologger
+- kenrockwell
+- slrgear
+
+
+## Sigma 17-50mm f/2.8 EX DC OS HSM
+- [lenstip: review](Sigma 17-50 mm f/2.8 EX DC OS HSM review - LensTip.com)
+- [fstoppers: review](http://fstoppers.com/gear/fstoppers-reviews-sigma-17-70mm-f28-4-contemporary-lens-3602)
+- [dpreview: review](http://www.dpreview.com/products/sigma/lenses/sigma_17-50_2p8_os)
+- [dxomark: review](http://www.dxomark.com/Lenses/Sigma/17-50mm-f-2.8-EX-DC-OS-HSM-Nikon-mounted-on-Nikon-D7000__680)
 
 # Notes
 - [Wirecutter: First Nikon Lenses](http://thewirecutter.com/reviews/the-first-nikon-lenses-you-should-buy/)
