@@ -14,7 +14,9 @@ Thrillist
 - [Dance Parties](https://www.thrillist.com/lifestyle/los-angeles/best-dance-parties-in-la)
 - [Bucket List](https://www.thrillist.com/entertainment/los-angeles/things-to-do-in-la-before-you-die-bucket-list)
 - [To do: Winter](https://www.thrillist.com/events/los-angeles/best-things-to-do-this-winter-in-la)
-- 
+- [Breweries](https://www.thrillist.com/drink/los-angeles/guide-to-every-la-county-brewery)
+- [Instead do this](https://www.thrillist.com/lifestyle/los-angeles/avoid-tourists-in-los-angeles)
+- [Explain LA](https://www.thrillist.com/entertainment/los-angeles/21-things-you-have-to-explain-to-out-of-towners-about-la-thrillist-los-angeles)
 
 Places
 - LACMA
