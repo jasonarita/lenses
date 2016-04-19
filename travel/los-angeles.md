@@ -1,0 +1,1 @@
+- [Wizarding World of Harry Potter - Universal Studios: Do's and Don'ts](https://www.thrillist.com/travel/nation/the-dos-and-donts-of-visiting-universals-wizarding-world-of-harry-potter/travel)
